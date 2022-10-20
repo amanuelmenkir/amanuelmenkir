@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amanuelmenkir
-- 👀 I’m interested in creating...
-- 🌱 I’m currently learning Python, Java, SQL...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in creating!
+- 🌱 I’m currently learning Python, Java and SQL.
+- 💞️ I’m looking to collaborate on projects soon.
 - 📫 How to reach me https://www.linkedin.com/in/amanuel-m/ & amanuelmenkir16@gmail.com
 
 <!---
